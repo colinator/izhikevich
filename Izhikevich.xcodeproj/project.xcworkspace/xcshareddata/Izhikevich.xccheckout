@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3AC435D7-C53C-410A-B5C4-214FD96DCE9C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Izhikevich</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6169DDDDCC22440EDEBC95A036BB07B4D0A01ACF</key>
+		<string>https://infinitestatemachine.repositoryhosting.com/git/infinitestatemachine/izhikevich.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Izhikevich.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6169DDDDCC22440EDEBC95A036BB07B4D0A01ACF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://infinitestatemachine.repositoryhosting.com/git/infinitestatemachine/izhikevich.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6169DDDDCC22440EDEBC95A036BB07B4D0A01ACF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6169DDDDCC22440EDEBC95A036BB07B4D0A01ACF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>izhikevich</string>
+		</dict>
+	</array>
+</dict>
+</plist>
